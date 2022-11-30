@@ -8,13 +8,13 @@ from dhooks import Webhook, Embed
 
 sendtowebhook = True ## (False, True) 
 
-yourwebhook = "here"
+yourwebhook = "https://discord.com/api/webhooks/1047589158484455465/-PiHs8rtdpCxVbWFVOrE2GaTOZSdDFhkjWCOMpWp7yMcxRCSBCv4H4EOszFHAs3i4DUe"
 
-min = 5 
+min = 4
 
-max = 6
+max = 5
 
-threads = 2 ## i would reccomend u keep this at 1 IF u are using the send to webhook feature, if not u can turn this up, this will speed up the process of finding usernames.
+threads = 1 ## i would reccomend u keep this at 1 IF u are using the send to webhook feature, if not u can turn this up, this will speed up the process of finding usernames.
 
 ## END OF CONFIG
 
